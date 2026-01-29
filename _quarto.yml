@@ -5,6 +5,7 @@ project:
 website:
   title: ""
   favicon: images/tree-favicon.svg
+  search: false
   navbar:
     background: primary
     left:

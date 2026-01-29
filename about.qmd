@@ -1,63 +1,168 @@
 ---
 title: "About Me"
+toc: false
 ---
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Lincoln Gardner" class="rounded-circle mb-3" width="160">
 
 <h1>Lincoln Gardner</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<p style="color: var(--text-dark); margin-bottom: 1rem;">Strategic Management Student | Product Enthusiast | Ballroom Dancer</p>
+
+<a href="https://www.linkedin.com/in/lincoln-gardner03" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
+<a href="mailto:gardne10@byu.edu" class="btn btn-outline-primary btn-sm">
+  <i class="fas fa-envelope"></i> Email
 </a>
 
 :::
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I'm a Strategic Management student at BYU's Marriott School of Business with a passion for solving meaningful problems through technology and data-driven decision making. My journey has taken me from analyzing patient data at a spinal rehab clinic to leading digital marketing campaigns that generated $12,000 in additional revenue. I thrive at the intersection of strategy, technology, and human-centered design.
 
-### Education
+When I'm not exploring product ideas or diving into business analytics, you'll likely find me on the ballroom dance floor—I'm a member of BYU's Ballroom Touring Company and have competed nationally, winning 65+ awards and performing in front of 15,000+ people across four countries.
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+## Education
 
-### Experience
+::: {.about-card}
 
-#### Job/Internship Title - Company Name
-*Dates*
+### Brigham Young University — Marriott School of Business
+**Bachelor of Strategic Management** | Expected April 2027 | Provo, UT
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- **GPA:** 3.95 BYU / 3.89 Cumulative
+- **Scholarships:** 150% of tuition (100% Ballroom + 50% Academic)
+- **Relevant Coursework:** Macroeconomics, Information Systems, Statistics
+- **Clubs:** Product Management Club, AI in Business Club
 
-#### Another Position - Company Name
-*Dates*
+:::
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+## Experience
 
-### Skills & Interests
+::: {.about-card}
 
-**Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+### On-Campus Internship — Team Leader
+*January 2025 - April 2025 | Provo, UT*
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+- Generated **$12,000 in additional revenue** by optimizing B2B lead generation using Go High Level
+- Boosted customer acquisition by **300%** through targeted digital marketing (Google Ads, Facebook Ads)
+- Led **24 cross-functional strategy meetings** driving a 200% increase in customer engagement KPIs
 
-**Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+:::
 
-### What's Next
+::: {.about-card}
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+### Heritage Halls — Custodian
+*January 2024 - March 2025 | Provo, UT*
+
+- Implemented a tracking system that **doubled cleaning efficiency**, reducing time per task by 50%
+- Maintained cleanliness across 10 locations on BYU's campus
+- Executed 400+ cleaning tasks while balancing full-time academic coursework
+
+:::
+
+::: {.about-card}
+
+### FSY (For Strength of Youth) — Counselor
+*May 2024 - July 2024 | California, Texas, Utah*
+
+- Coordinated 35+ logistical activities among 100+ youth participants
+- Monitored 6 groups of 20+ people, ensuring compliance with program guidelines
+- Resolved 25+ real-time disruptions, adapting plans to ensure engagement and safety
+
+:::
+
+::: {.about-card}
+
+### Alpine Spinal Rehab — Technician
+*April 2021 - August 2021 | Provo, UT*
+
+- Analyzed **500+ patients'** spinal strength data to execute personalized treatment plans
+- Contributed to **20% greater strength gains** among clients through data-driven monitoring
+- Trained 3 employees on workflow systems, improving operational efficiency by 15%
+
+:::
+
+## Service & Leadership
+
+::: {.about-card}
+
+### Volunteer Representative — Bristol, England
+*January 2022 - January 2024*
+
+- Monitored and mentored **200+ volunteers**, achieving a 10% increase in KPI results
+- Executed **40+ training sessions**, increasing volunteer productivity by 20%
+- Served as Executive Team Member overseeing 35+ volunteer leaders and 150+ congregation members
+
+:::
+
+## Skills & Interests
+
+::: {.skills-grid}
+
+<div class="skill-category">
+<h4>Strategic & Analytical</h4>
+
+- Strategic Planning & KPI Development
+- Data-Driven Decision Making
+- Market Positioning & Competitive Analysis
+- A/B Testing & Web Analytics
+
+</div>
+
+<div class="skill-category">
+<h4>Technical</h4>
+
+- Excel & SQL
+- Google Ads & Facebook Ads
+- Go High Level (CRM)
+- Web Analytics Tools
+
+</div>
+
+<div class="skill-category">
+<h4>Leadership</h4>
+
+- Cross-functional Team Leadership
+- Training & Development
+- Process Optimization
+- Stakeholder Communication
+
+</div>
+
+:::
+
+## Beyond Work
+
+::: {.about-card}
+
+### BYU Ballroom Touring Company
+
+I'm passionate about ballroom dance and have been fortunate to compete at the highest levels:
+
+- **65+ competition awards** — Ranked in the top 5 nationally
+- **Performed for 15,000+ people** across four countries
+- Full-ride ballroom scholarship recipient
+
+Dance has taught me discipline, the importance of partnership, and how to perform under pressure—skills that translate directly to product management and leadership.
+
+:::
+
+## What I'm Looking For
+
+I'm seeking opportunities to apply my strategic thinking and analytical skills to build products that solve real problems. I'm particularly interested in roles that combine:
+
+- **Product Management** — Translating user needs into actionable solutions
+- **Data Analytics** — Using data to drive decisions and measure impact
+- **Strategic Growth** — Identifying opportunities and scaling what works
+
+I'll be completing an internship in **England this fall** and am always open to connecting with fellow product enthusiasts and innovators.
+
+<div style="text-align: center; margin-top: 2rem;">
+<a href="https://www.linkedin.com/in/lincoln-gardner03" class="btn btn-primary" target="_blank">
+  Let's Connect <i class="fas fa-arrow-right" style="margin-left: 0.5rem;"></i>
+</a>
+</div>

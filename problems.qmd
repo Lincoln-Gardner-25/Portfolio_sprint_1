@@ -4,75 +4,75 @@ toc: false
 ---
 
 <div class="problems-hero">
-  <img src="https://images.unsplash.com/photo-1551632811-561732d1e306?w=1200&q=80" alt="Man climbing mountain" class="hero-image">
-  <div class="hero-overlay">
-    <h1>Problems Worth Solving</h1>
-    <p>Meaningful challenges that drive my curiosity and innovation</p>
-  </div>
+<img src="https://images.unsplash.com/photo-1551632811-561732d1e306?w=1200&q=80" alt="Man climbing mountain" class="hero-image">
+<div class="hero-overlay">
+<h1>Problems Worth Solving</h1>
+<p>Meaningful challenges that drive my curiosity and innovation</p>
+</div>
 </div>
 
 <div class="problems-container">
 
 <div class="problem-card" id="problem-1">
-  <div class="problem-bg" style="background-image: url('https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&q=80');"></div>
-  <div class="problem-content">
-    <div class="problem-header">
-      <span class="problem-number">01</span>
-      <h3>How can I track my macro intake?</h3>
-      <span class="expand-icon"><i class="fas fa-chevron-down"></i></span>
-    </div>
-    <div class="problem-description">
-      <p>Anyone who is into health and wellness knows how hard it is to track your macro intake in a given day. Many apps and tools have been made to help people do this, but I think I can make one better that helps address people's needs.</p>
-      <p>The mechanism is simple. You'd simply describe in sufficient detail the food you ate for a given meal and an algorithm will estimate the amount of calories you took in and the respective macro levels. This can be done for restaurant foods and homemade foods. However, for homemade foods then you'd have to describe what went into that given recipe.</p>
-      <p>These inputs can be put in either by texting it into an app, verbally describing it, or taking a picture of your food. The idea is to allow health conscious users to count their macro intake in a quick and sufficient manner.</p>
-    </div>
-  </div>
+<div class="problem-bg" style="background-image: url('https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&q=80');"></div>
+<div class="problem-content">
+<div class="problem-header">
+<span class="problem-number">01</span>
+<h3>How can I track my macro intake?</h3>
+<span class="expand-icon"><i class="fas fa-chevron-down"></i></span>
+</div>
+<div class="problem-description">
+<p>Anyone who is into health and wellness knows how hard it is to track your macro intake in a given day. Many apps and tools have been made to help people do this, but I think I can make one better that helps address people's needs.</p>
+<p>The mechanism is simple. You'd simply describe in sufficient detail the food you ate for a given meal and an algorithm will estimate the amount of calories you took in and the respective macro levels. This can be done for restaurant foods and homemade foods. However, for homemade foods then you'd have to describe what went into that given recipe.</p>
+<p>These inputs can be put in either by texting it into an app, verbally describing it, or taking a picture of your food. The idea is to allow health conscious users to count their macro intake in a quick and sufficient manner.</p>
+</div>
+</div>
 </div>
 
 <div class="problem-card" id="problem-2">
-  <div class="problem-bg" style="background-image: url('https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80');"></div>
-  <div class="problem-content">
-    <div class="problem-header">
-      <span class="problem-number">02</span>
-      <h3>How do freelancers know if they are leaving money on the table?</h3>
-      <span class="expand-icon"><i class="fas fa-chevron-down"></i></span>
-    </div>
-    <div class="problem-description">
-      <p>My brother is a freelancer who does photography and videography. That being said, he has wondered if the time spent working on certain projects is worth the amount of money he is bringing in as a result of these projects.</p>
-      <p>To better calculate this then we are teaming up to make an app that not only tracks the hourly rate of how much time someone spends working, but also provides strategic insights to help users make the most of their time.</p>
-    </div>
-  </div>
+<div class="problem-bg" style="background-image: url('https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80');"></div>
+<div class="problem-content">
+<div class="problem-header">
+<span class="problem-number">02</span>
+<h3>How do freelancers know if they are leaving money on the table?</h3>
+<span class="expand-icon"><i class="fas fa-chevron-down"></i></span>
+</div>
+<div class="problem-description">
+<p>My brother is a freelancer who does photography and videography. That being said, he has wondered if the time spent working on certain projects is worth the amount of money he is bringing in as a result of these projects.</p>
+<p>To better calculate this then we are teaming up to make an app that not only tracks the hourly rate of how much time someone spends working, but also provides strategic insights to help users make the most of their time.</p>
+</div>
+</div>
 </div>
 
 <div class="problem-card" id="problem-3">
-  <div class="problem-bg" style="background-image: url('https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80');"></div>
-  <div class="problem-content">
-    <div class="problem-header">
-      <span class="problem-number">03</span>
-      <h3>Humans are complex, how are we to know what is really going on in our internal world?</h3>
-      <span class="expand-icon"><i class="fas fa-chevron-down"></i></span>
-    </div>
-    <div class="problem-description">
-      <p>Many people lack the basic skill of self-awareness. They might feel sad, depressed, or anxious without knowing the root cause of that. I'd like to create an interactive "journaling" app that helps users better recognize their emotions and know the root cause of what is going on.</p>
-      <p>This app would not be used to manipulate emotions, but rather let emotions do their job of marking/highlighting what is going on with our internal and external world. This will help train people to become more emotionally intelligent which historically is correlated with highly successful individuals.</p>
-    </div>
-  </div>
+<div class="problem-bg" style="background-image: url('https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=800&q=80');"></div>
+<div class="problem-content">
+<div class="problem-header">
+<span class="problem-number">03</span>
+<h3>Humans are complex, how are we to know what is really going on in our internal world?</h3>
+<span class="expand-icon"><i class="fas fa-chevron-down"></i></span>
+</div>
+<div class="problem-description">
+<p>Many people lack the basic skill of self-awareness. They might feel sad, depressed, or anxious without knowing the root cause of that. I'd like to create an interactive "journaling" app that helps users better recognize their emotions and know the root cause of what is going on.</p>
+<p>This app would not be used to manipulate emotions, but rather let emotions do their job of marking/highlighting what is going on with our internal and external world. This will help train people to become more emotionally intelligent which historically is correlated with highly successful individuals.</p>
+</div>
+</div>
 </div>
 
 <div class="problem-card" id="problem-4">
-  <div class="problem-bg" style="background-image: url('https://images.unsplash.com/photo-1516575150278-77136aed6920?w=800&q=80');"></div>
-  <div class="problem-content">
-    <div class="problem-header">
-      <span class="problem-number">04</span>
-      <h3>How can we better communicate with others in a way that is constructive rather than destructive?</h3>
-      <span class="expand-icon"><i class="fas fa-chevron-down"></i></span>
-    </div>
-    <div class="problem-description">
-      <p>I've seen relationships be spoiled because partners are unable and unaware enough to communicate in a succinct clear manner. Too often partners let their emotional reasoning take too much precedence without hearing and by extension processing what the other party is saying.</p>
-      <p>In order to help address this issue, I propose an AI facilitator that listens in on a couple's conversation and helps highlight/track the conversation. This agent can help partners stay on topic without jumping to erroneous conclusions and tying in illogical fallacies that aren't connected to the root problem at hand.</p>
-      <p>Too many people spit out complaints that are not connected or logical and much of the bad feelings caused in dialogue can be eradicated when problems are addressed in more of a systematic, logical way. This feedback from the AI agent will be given whenever the partners decide to consult it in their conversation. It also will create a sense of accountability between partners to ensure that they are not just murmuring, but actually collaborating together to find important solutions.</p>
-    </div>
-  </div>
+<div class="problem-bg" style="background-image: url('https://images.unsplash.com/photo-1516575150278-77136aed6920?w=800&q=80');"></div>
+<div class="problem-content">
+<div class="problem-header">
+<span class="problem-number">04</span>
+<h3>How can we better communicate with others in a way that is constructive rather than destructive?</h3>
+<span class="expand-icon"><i class="fas fa-chevron-down"></i></span>
+</div>
+<div class="problem-description">
+<p>I've seen relationships be spoiled because partners are unable and unaware enough to communicate in a succinct clear manner. Too often partners let their emotional reasoning take too much precedence without hearing and by extension processing what the other party is saying.</p>
+<p>In order to help address this issue, I propose an AI facilitator that listens in on a couple's conversation and helps highlight/track the conversation. This agent can help partners stay on topic without jumping to erroneous conclusions and tying in illogical fallacies that aren't connected to the root problem at hand.</p>
+<p>Too many people spit out complaints that are not connected or logical and much of the bad feelings caused in dialogue can be eradicated when problems are addressed in more of a systematic, logical way. This feedback from the AI agent will be given whenever the partners decide to consult it in their conversation. It also will create a sense of accountability between partners to ensure that they are not just murmuring, but actually collaborating together to find important solutions.</p>
+</div>
+</div>
 </div>
 
 </div>
