@@ -4,25 +4,32 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Lincoln Gardner" class="rounded-circle mb-3" width="160">
 
 <h1>Lincoln Gardner</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/lincoln-gardner03" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
 </a>
 
 :::
+
+::: {.featured-projects}
 
 ## Featured Projects
 
-::: {.g-col-12 .g-col-md-6 .card}
-
-### [True Rate](https://true-freelance-ylyl.vercel.app/)
-A one sentence description of my first application which is deployed to vercel. 
-
 :::
 
+::: {.project-card}
+
+<a href="https://true-freelance-ylyl.vercel.app/" class="app-icon" target="_blank">
+  <span class="app-icon-text"><span class="letter-t">T</span><span class="letter-r">R</span></span>
+</a>
+
+### True Rate
+
+- This app assists freelancers with tracking and setting profitable price tags to their unique projects.
+- The app has the flexibility to serve any freelancer interested in not only tracking, but gleaning strategic insights for pricing strategies.
+- Modifications to the app are currently underway and will be deployed soon.
+
+:::

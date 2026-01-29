@@ -4,34 +4,24 @@ project:
 
 website:
   title: ""
-  favicon: images/prototyping-favicon.png
+  favicon: images/tree-favicon.svg
   navbar:
     background: primary
     left:
-      - href: index.qmd
-        text: Home
+      - href: problems.qmd
+        text: Problems I'm Exploring
       - href: about.qmd
-        text: About
+        text: About Me
       - text: Projects
         menu:
           - href: https://true-freelance-ylyl.vercel.app/
             text: True Rate
-          #- href: projects/project-2.qmd
-          #  text: Business Case Presentation
-          #- href: projects/project-3.qmd
-          #  text: Project 3
-          #- href: projects/project-4.qmd
-          #  text: Project 4
-          #- href: projects/project-5.qmd
-          #  text: Project 5
-          #- href: projects/project-6.qmd
-          #  text: Project 6
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
