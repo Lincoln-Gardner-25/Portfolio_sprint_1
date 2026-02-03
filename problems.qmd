@@ -75,4 +75,19 @@ toc: false
 </div>
 </div>
 
+<div class="problem-card" id="problem-5">
+<div class="problem-bg" style="background-image: url('https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80');"></div>
+<div class="problem-content">
+<div class="problem-header">
+<span class="problem-number">05</span>
+<h3>Why is it so hard to put down our phones?</h3>
+<span class="expand-icon"><i class="fas fa-chevron-down"></i></span>
+</div>
+<div class="problem-description">
+<p>We live in an age where our smartphones have become extensions of ourselves. While these devices offer incredible utility, many of us struggle to use them intentionally. Hours slip away scrolling through feeds, and what was meant to be a quick check turns into a lengthy session. The apps we use are designed to capture and hold our attention, making it difficult to break free even when we want to.</p>
+<p>I believe AI can serve as an accountability partner to help us develop a healthier relationship with our devices. Rather than relying solely on blunt tools like screen time limits, an AI companion could understand our usage patterns, recognize when we're falling into unintentional habits, and gently intervene with personalized nudges. This isn't about demonizing technology—it's about leveraging AI to help us use the powerful tool in our hands more responsibly and align our screen time with our actual intentions and values.</p>
+</div>
+</div>
+</div>
+
 </div>
